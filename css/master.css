@@ -123,13 +123,13 @@ header {
             flex : 0 !important;
                 }
         header .menu {
-            padding: 10px;
+            padding: 7px;
             background: #0079d2;
             color: #fff !important;
             border-radius: 5px;
         }
         .logo img {
-            width: 150px;
+            width: 130px;
         }
         header .container{
             min-height: 100px !important;
