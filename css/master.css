@@ -110,10 +110,10 @@ header {
     header .form {
         margin-left: 0 !important;
         border-left: 0 !important;
-        padding: 10px !important;
+        padding: 7px !important;
         background: #0079d2;
         color: #fff !important;
-        border-radius: 5px;
+        border-radius:5px;
     }
         a.logo {
             flex: 1;
